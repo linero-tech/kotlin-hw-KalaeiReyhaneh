@@ -1,6 +1,6 @@
 package lms_126
 
-fun task7(): String {
+fun task7() {
+"Solution 7"
 
-    return TODO("Replace this 'TODO' with your solution")
 }
