@@ -10,5 +10,6 @@ fun task4(): String {
         IF y>x
            print y
     """
+
         .trimIndent()
 }
