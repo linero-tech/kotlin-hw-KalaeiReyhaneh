@@ -23,6 +23,7 @@ fun task5() {
       IF number 7
         print "Sunday"
    """
+
     .trimMargin()
 
 }
