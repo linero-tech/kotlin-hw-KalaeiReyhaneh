@@ -6,6 +6,7 @@ fun task7() {
                  print number
        
        """
+
            .trimIndent()
 
 }
