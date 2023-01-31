@@ -9,5 +9,6 @@ fun task3(): String {
       OUTPUT area of triangle
     """
 
+
         .trimIndent()
 }
