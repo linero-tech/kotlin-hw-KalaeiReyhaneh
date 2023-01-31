@@ -11,5 +11,6 @@ fun task4(): String {
            print y
     """
 
+
         .trimIndent()
 }
