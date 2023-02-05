@@ -1,7 +1,8 @@
 package lms_126
 
-fun task5() {
-"""FOR number (1-8)
+fun task5(): String {
+    return """
+FOR number (1-8)
       IF number 1
         print "Monday"
    ELSE
@@ -23,6 +24,7 @@ fun task5() {
       IF number 7
         print "Sunday"
    """
+
 
     .trimMargin()
 

@@ -10,6 +10,7 @@ fun task7(): String {
        """
 
 
+
            .trimIndent()
 
 }

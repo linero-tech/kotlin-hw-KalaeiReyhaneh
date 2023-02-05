@@ -12,5 +12,6 @@ fun task10(): String {
         Enter confirm
     """
 
+
         .trimIndent()
 }

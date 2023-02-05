@@ -9,5 +9,6 @@ fun task9(): String {
         ENTER your amount
            print the receipt
         """
+
         .trimIndent()
 }
