@@ -3,7 +3,7 @@ package lms_126
 fun task11(): String {
 
     return """
-        Convert temperatures from Celcius to Farenheit
+        Convert temperatures from "Celcius" to "Farenheit"
         INPUT F
         STEP C = (F - 32) / (1.8)
         print C
