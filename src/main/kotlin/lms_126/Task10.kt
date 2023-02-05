@@ -11,5 +11,6 @@ fun task10(): String {
         ENTER your password
         Enter confirm
     """
+
         .trimIndent()
 }
