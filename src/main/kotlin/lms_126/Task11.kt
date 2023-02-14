@@ -14,6 +14,6 @@ fun task11(): String {
     """
 
 
-        
+
         .trimIndent()
 }
