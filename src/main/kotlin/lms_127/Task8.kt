@@ -1,6 +1,13 @@
 package lms_127
 
 fun task8(sentence: String, character: Char): Int {
+    val sentence = "I code in KOTLIN"
+    val letterCounter = sentence.count{it == 'I'}
 
-    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
+
+    return letterCounter
+}
+fun main() {
+    val result = task8("I code in KOTLIN", 'I')
+    println("The letter is present $result times")
 }
