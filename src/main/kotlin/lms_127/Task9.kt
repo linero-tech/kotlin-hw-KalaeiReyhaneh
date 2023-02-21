@@ -8,4 +8,5 @@ fun task9(sentence: String, character: Char): Boolean {
 fun main ()  {
     val result = task9("I code In KOTLIN",'i')
     println("The letter is present $result times")
+
 }
