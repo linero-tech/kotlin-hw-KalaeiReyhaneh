@@ -1,6 +1,16 @@
 package lms_127
 
+import kotlin.jvm.internal.Intrinsics.Kotlin
+
 fun task7(sentence: String): Int {
 
-    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
+val sentence = "I love kotlin"
+    val numberOfCharacters = sentence.length
+    //println("The sentence has $numberOfCharacters characters")
+    return numberOfCharacters
+}
+fun main()  {
+    val result = task7("I love kotlin")
+    println("The sentence has $result characters")
+
 }
