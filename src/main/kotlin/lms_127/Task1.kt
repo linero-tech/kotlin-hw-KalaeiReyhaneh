@@ -8,7 +8,6 @@ fun task1() {
     println("Capital: $capitalCity")
     println("Currency: $currency")
 }
-
 fun main ()  {
-    val answer = task1()
+    val result = task1()
 }
