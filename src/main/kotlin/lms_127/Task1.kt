@@ -10,4 +10,5 @@ fun task1() {
 }
 fun main ()  {
     val result = task1()
+
 }
