@@ -12,4 +12,5 @@ fun task6(base1: Double, base2: Double, height: Double): Double {
 
 fun main()  {
     val result = task6(10.0,20.0,1.0)
+
 }
