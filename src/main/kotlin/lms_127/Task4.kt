@@ -7,4 +7,5 @@ fun task4(base: Double, height: Double): Double {
 }
 fun main() {
     println(task4(base = 5.0, height = 10.0)) // 25.0
+
 }
