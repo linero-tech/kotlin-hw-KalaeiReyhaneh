@@ -8,4 +8,5 @@ fun task3(radius: Double): Double {
 fun main() {
     val result = task3(2.0)
     println(result)
+
 }
