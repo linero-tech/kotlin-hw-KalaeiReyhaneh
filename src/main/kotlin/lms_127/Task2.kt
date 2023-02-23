@@ -9,7 +9,7 @@ print("Enter the month you were born: ")
     val  month = readln()
 print("Hello $name, you are from $country, you were born in $month ")
 
-    
+
 }
 fun main()  {
     val result = task2()
