@@ -5,7 +5,7 @@ fun task8(sentence: String, character: Char): Int {
     val letterCounter = sentence.count{it == 'I'}
 
 
-    
+
     return letterCounter
 }
 fun main() {
