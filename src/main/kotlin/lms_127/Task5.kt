@@ -5,6 +5,7 @@ fun task5(valueForA: Int, valueForB: Int): Pair<Int, Int> {
     var a = valueForA
     var b = valueForB
 
+    
     println("before swap:a =  $a, b: $b")
 
     var c = a
