@@ -3,7 +3,7 @@ package lms_127
 import kotlin.jvm.internal.Intrinsics.Kotlin
 
 fun task7(sentence: String): Int {
-    
+
 
 val sentence = "I love GBG"
     val numberOfCharacters = sentence.length
