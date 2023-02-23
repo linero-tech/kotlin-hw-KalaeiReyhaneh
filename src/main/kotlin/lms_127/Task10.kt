@@ -18,4 +18,5 @@ fun task10_3(assessments: String): Char {
 fun task10_4(assessments: String): String {
 
     return assessments.substring(0,3)
+
 }
