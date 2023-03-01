@@ -8,7 +8,7 @@ fun task1() {
     println("Country: $countryName")
     println("Capital: $capitalCity")
     println("Currency: $currency")
-    return
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }
 
 fun main ()  {
