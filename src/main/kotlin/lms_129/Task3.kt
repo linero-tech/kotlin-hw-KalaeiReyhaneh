@@ -2,5 +2,17 @@ package lms_129
 
 fun task3(number: Int): Int {
 
-    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
+    var result = 1
+    for (i in number downTo 1)
+            result = result * i
+
+    println("fact: $result")
+
+    return result
+}
+
+fun main() {
+    val result = task3(5)
+
+
 }
