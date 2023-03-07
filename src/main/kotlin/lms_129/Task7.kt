@@ -2,5 +2,17 @@ package lms_129
 
 fun task7(a: Int, b: Int): Int {
 
-    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
+    var c = 1
+    if (a != b )
+        for (number in 1..b)
+            c = c * a
+
+    return c
+}
+
+fun main()  {
+    val result = task7(2, 2)
+    println("$result")
+
+
 }
